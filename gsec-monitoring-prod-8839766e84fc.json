@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gsec-monitoring-prod",
+  "private_key_id": "8839766e84fc804d106bc73d2430c015eafa0732",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCg+QwXtv7VXfOe\nUz2fTdhBX8f0c1xVGSobTW8l0gp5Uj+weyVLitHDiHcKtcZYfNKvBwgUoTQ88UUL\nB7zmoLd8qLli8pn9Cq7bCjvP4Jf4bL++k1XaaKLrWi534ikzjuorOqTy7svVttth\nEZgNMHMSqbHYXuJSeK0SA3oE+uvQGn8zglR6MTexI9ALbOqclWPn4YBCq0eZtNtA\ni2iUN5n1qWCTYzywOav6AMlVGLBwofJ+b3EYfuq2s9cpP1u3+QxPwsrqynw19g5v\n65HicDvBaMKxJ132go6pYSy9v04bJFGB4TaUdKSfRBnK8Bo4RndhAfn/hW/a45e2\naK7j/pmvAgMBAAECggEABm07At1e+jTIi6smHCyW9DE3QfazGoCpMjLau6dRnLtg\naJLaD9SIgGZ73jUYqKK/JJbCx1QSSlaVm5WhAJItETCJSj6GUFhzV7JmZevBFX1+\nAEVQmaowyvWsQkQIwhK0Haq3OC25fJxS0OLLb8dd6MJWo91R6tn/iucRoY5FCOdd\nnXgrhj1o3z+AjjQ9xtKbgxQAFV5c58Og/O+Q9CVooO2Xbn6ZxfK0qFPLl8aWv5Vw\n9QsDo3NFNYmgnEnHFXPNALd1/oSPwRNOpPjppmtIRv6RT0vLrTUU70SMO7ERJDkw\nfx5WjrdhtUB8W4gCI5ap45RbF+ket19Y38DSmqcq2QKBgQDhV+qLPRP2IqptrutS\nLcjnrJqZCNjLbRFGOi4kBrumYG0VyBGI63mOYR344uHJezdMqW+WdJhefZlYaPMi\nF8jJp97VviE79mfi2H75k1jJqb22QK1PBC97TffE2tbvz3c/joxEuDloXXQ4vQvp\n78OSPGdLIknInZTcsm1g1ZZjiQKBgQC230hwHV8XhMBWgKEaHUKL0agkGHa7kAqu\ndQRK5Du9vNbk4oEUbine+dnFlDJAnNounWE8lQmoLOOwm/X9uYpgQDtbkRbOTKj1\nBJvXCo+TIrC+FRVVic4xs8/92kSyggsGRwBxMcyJPpz9xNFJ6HN8xazEQ+VYbfof\niXdIbs1tdwKBgQCjFmTKRvcWcTpVTX5EKJy5h0MQNMXqXFJfOCZCrpjKrgjk9boz\nFPERqZnukg2FK2b3Vb1L77CC2nXL9ZDZgMsxnwv4N7WH1yqSk8s5x3k/4lhJ+f80\nK7xNij0ivJtITido2TsNVSM/NDu0AKYJthwdzxeW2gb6aYnePEhLB+niuQKBgQCF\nMgBa2KnIQYKt/qZYlPNBT4V+NOtWFcYR510nBzGUMxT6RRfrP4nzxFufkx8+/H/V\n7/9A1vTfr0JwAkibcyackGwrd3P68s8lFyRC7ohAjMXazRRq5yJuBR/7L51Vv240\nNkbWK4VkeVxzYYVmpY5oVLpPgXxsej3x9ngRI9MwZQKBgQDfVm5ciLYfAm7a/pMt\nksxWvnrVuZ1pJueI+wCz9wTuW2fo3dTC8LK0/bjnSNj45+KJ+RngzPp1C+y212al\nrJ+6ETKKRejvYWWPWdL4QnMyrXUGwU1XEzWiNWIyzoxpqHF63xX4lmQ5QniGgUrD\nSfudoZ0GcW5jVBRDOqRHL895AA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "repositorykeytest@gsec-monitoring-prod.iam.gserviceaccount.com",
+  "client_id": "106913102972319831061",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/repositorykeytest%40gsec-monitoring-prod.iam.gserviceaccount.com"
+}
